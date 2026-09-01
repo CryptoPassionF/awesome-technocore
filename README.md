@@ -64,6 +64,8 @@ a third-party guide disagrees with these, the guide is wrong.
 
 ## Guides
 
+- [CryptoPassionF/technocore-secure-windows-guide-fr](https://github.com/CryptoPassionF/technocore-secure-windows-guide-fr)
+  — French Windows guide for secure DID setup, seed handling, signed messages, and troubleshooting with the official Technocore signer.
 - [mztacat/Simplified-FLOP-Labs-Technocore-Agent-Guid](https://github.com/mztacat/Simplified-FLOP-Labs-Technocore-Agent-Guid)
   — a clean rewrite of the official skill flow.
 
